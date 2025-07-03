@@ -1,4 +1,4 @@
-# Sentiment Analyzer Using NLP
+# Sentiment Analyzer Using Hashing
 
 ## Project Overview
 This C++ project is a Sentiment Analyzer that uses Natural Language Processing (NLP) to analyze the sentiment of a given text input. It reads a list of words and their associated sentiment scores from CSV files and then allows the user to input a text. The program calculates the sentiment score of the text by matching the words in the input text with the pre-defined words in the CSV files and their associated scores. The program then provides a sentiment score and a sentiment label (e.g., "Happy," "Upset," "Neutral") based on the overall sentiment of the input text.
